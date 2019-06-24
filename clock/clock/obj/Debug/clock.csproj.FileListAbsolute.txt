@@ -1,0 +1,15 @@
+C:\Users\kou\source\repos\clock\clock\bin\Debug\clock.exe.config
+C:\Users\kou\source\repos\clock\clock\bin\Debug\clock.exe
+C:\Users\kou\source\repos\clock\clock\bin\Debug\clock.pdb
+C:\Users\kou\source\repos\clock\clock\bin\Debug\Interop.WMPLib.dll
+C:\Users\kou\source\repos\clock\clock\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.csprojAssemblyReference.cache
+C:\Users\kou\source\repos\clock\clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\kou\source\repos\clock\clock\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.csproj.ResolveComReference.cache
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.Form1.resources
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.csproj.GenerateResource.cache
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.exe
+C:\Users\kou\source\repos\clock\clock\obj\Debug\clock.pdb
